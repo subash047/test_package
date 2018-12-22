@@ -1,0 +1,11 @@
+{
+    "name": "subash/test_package",
+    "description": "This is test package,",
+    "authors": [
+        {
+            "name": "Subash Ghimire",
+            "email": "subash@exportfeed.com"
+        }
+    ],
+    "require": {}
+}
